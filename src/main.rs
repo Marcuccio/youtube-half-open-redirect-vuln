@@ -41,7 +41,7 @@ fn strip_trailing_newline(input: &str) -> &str {
 fn print_header() {
     println!("");
     println!("");
-	println!("\t############################################");
+    println!("\t############################################");
     println!("\tHalf-open redirect vulnerability in Youtube!");
     println!("\t############################################");
     // TODO add the article as reference
